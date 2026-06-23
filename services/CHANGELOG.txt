@@ -1,0 +1,6 @@
+AI 3.1
+- Улучшить ai_anomaly.py
+- Улучшить ai_statistics.py
+- Добавить ai_budget.py
+- Добавить ai_health.py
+- Обновить ai_engine.py

@@ -1,0 +1,22 @@
+MyCost Bot v4.0
+
+Добавлено:
+- новое ядро app/core, app/db, app/models, app/repositories, app/services;
+- миграции SQLite;
+- логирование;
+- TTL кеширование AI;
+- Dockerfile и docker-compose;
+- FastAPI Web Cabinet;
+- новый AI Advisor для вопросов по бюджету, доходам, целям и покупкам;
+- OCR чеков через GPT Vision;
+- Premium слой и ZenMoney-like roadmap;
+- pytest тесты.
+
+Команды:
+AI Почему трачу больше?
+AI Можно купить iPhone за 12 млн?
+Премиум
+Web
+
+Проверено:
+pytest -q -> 3 passed.
